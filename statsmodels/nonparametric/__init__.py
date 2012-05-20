@@ -1,4 +1,5 @@
 from kde import KDE
+from smoothers_loess import loess
 from smoothers_lowess import lowess
 import bandwidths
 
